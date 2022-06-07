@@ -46,6 +46,57 @@ responses:
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
 
+  utter_atis_flight:
+  - text: "this is atis_flight"
+
+  utter_atis_abbreviation:
+  - text: "this is atis_abbreviation"
+  
+  utter_atis_aircraft:
+  - text: "this is atis_aircraft"
+  
+  utter_atis_airfare:
+  - text: "this is atis_airfare"
+  
+  utter_atis_airline:
+  - text: "this is atis_airline"
+  
+  utter_atis_airport:
+  - text: "this is atis_airport"
+
+  utter_atis_capacity:
+  - text: "this is atis_capacity"
+  
+  utter_atis_cheapest:
+  - text: "this is atis_cheapest"
+  
+  utter_atis_city:
+  - text: "this is atis_city"
+
+  utter_atis_distance:
+  - text: "this is atis_distance"
+  
+  utter_atis_flight_no:
+  - text: "this is atis_flight_no"
+  
+  utter_atis_flight_time:
+  - text: "this is atis_flight_time"
+
+  utter_atis_ground_fare:
+  - text: "this is atis_ground_fare"
+
+  utter_atis_ground_service:
+  - text: "this is atis_ground_service"
+  
+  utter_atis_meal:
+  - text: "this is atis_meal"
+  
+  utter_atis_quantity:
+  - text: "this is atis_quantity"
+
+  utter_atis_restriction:
+  - text: "this is atis_restriction"
+
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
