@@ -4418,3 +4418,677 @@ nlu:
     - show me economy fares from dallas to baltimore
     - what are the coach fares for flights from pittsburgh to denver
     - what is the airfare for flights from denver to pittsburgh on delta airline
+
+- intent: atis_airline
+  examples: |
+    - which airline serves denver pittsburgh and atlanta
+    - show me the airlines with first class flights
+    - which airline has the most arrivals in atlanta
+    - what airlines fly from new york to milwaukee to los angeles
+    - which airlines serve atlanta
+    - could you please tell me the airlines that fly from toronto to san diego
+    - which airlines have first class flights today
+    - of all airlines which airline has the most arrivals in atlanta
+    - which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth
+    - show me airline abbreviations
+    - can you list all the airlines that have flights from boston to san francisco
+    - which airline can fly me from atlanta to denver to san francisco
+    - which airline provides business class flights
+    - which airlines fly between boston and pittsburgh
+    - which airlines have flights between philadelphia and pittsburgh
+    - show me the airlines between toronto and denver
+    - which airlines are represented in the database
+    - what is airline us
+    - show me the airlines from love field
+    - what airlines fly between boston and san francisco and stop in denver
+    - airline code as
+    - what airlines fly from boston to pittsburgh
+    - please tell me which airline has the most departures from atlanta
+    - which airlines fly from boston to washington dc but stopover in some other city
+    - please list all airline flights between denver and boston
+    - airlines that fly to miami from new york on friday
+    - what airlines go from atlanta to baltimore
+    - what airlines have business class
+    - show me first class airlines from san francisco to pittsburgh on next tuesday first class only
+    - what airlines fly between boston and san francisco
+    - do you have any airlines that would stop at denver on the way from baltimore to san francisco
+    - does any airline have an afternoon flight from boston to oakland
+    - what airlines fly from boston to atlanta
+    - what is airline dl
+    - which airlines fly between baltimore and san francisco
+    - what airlines fly from boston to denver
+    - what kind of airline is flight ua 281 from boston to denver
+    - which airlines fly between boston and philadelphia
+    - which airline is the cheapest to fly from dallas to baltimore on december twenty fourth
+    - show me the airlines for flights to or from love field
+    - show me the airlines that fly between toronto and denver
+    - which airlines have flights from san francisco to washington by way of indianapolis
+    - show all airlines with flights between denver and dallas
+    - please show me airlines with service from boston to denver
+    - what is airline nw
+    - what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm
+    - what airlines service pittsburgh airport
+    - what airlines fly from boston to pittsburgh
+    - what airlines flies out of atlanta
+    - what airlines fly boston to baltimore
+    - what does the airline code dl stand for
+    - what airlines have nonstop early afternoon flights from boston to denver
+    - which airlines fly from boston to washington
+    - show me a list of all the airlines that offer business class service
+    - which airlines fly from toronto to san diego and have a stopover in denver
+    - which airline offers the cheapest rate going from dallas to baltimore on july fourth
+    - which airlines serve denver
+    - what airline is as
+    - show me the airlines that use love field
+    - please show me airlines with flights from denver to boston stop philadelphia
+    - please show me airlines with flights from philadelphia to dallas
+    - tell me which airlines have flights from pittsburgh to san francisco on monday september second
+    - what airlines from washington dc to columbus
+    - give me a list of airlines in pittsburgh
+    - show me airlines going from pittsburgh going to denver and then continuing to san francisco on monday
+    - what kind of airline is flight ua 281 from boston to denver
+    - show me airline abbreviations
+    - define airline hp
+    - please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston
+    - which airlines fly between boston and baltimore
+    - what airline is hp
+    - which airlines have first class flights today
+    - what airlines fly between atlanta and san francisco
+    - what airlines fly between san francisco and denver
+    - are there any airlines that have flights from boston to philadelphia that leave before 630 am
+    - does any airline offer dc10 service between denver and boston
+    - what is airline ff
+    - which airlines have daily flights from boston to dallas
+    - show all airlines flying from pittsburgh to san francisco
+    - what airlines are ac and as
+    - please show me airlines with flights from denver to boston with a stopover in philadelphia
+    - please show me all airlines with sunday flights from philadelphia to denver
+    - which airlines fly from boston to washington dc via other cities
+    - what airlines fly from boston to washington
+    - show me the airlines between boston and toronto
+    - please show me airlines with flights from denver to boston with stop in philadelphia
+    - what airlines have flights from boston to philadelphia that leave before 630 am
+    - what airlines fly from toronto to san diego
+    - which airlines fly between boston and pittsburgh
+    - which airline has the most business class flights
+    - what airline besides continental flies between boston and denver
+    - what airline is dl
+    - what airline uses the code hp
+    - please show me airlines with round trip flights from boston to denver stop philadelphia
+    - which airlines have flights between charlotte and newark
+    - what airlines leave from washington
+    - what airlines fly into salt lake city
+    - please show me airlines with flights from boston to denver
+    - what airlines are there
+    - what is airline nw
+    - what airline is ea
+    - does any airline have an early afternoon flight from boston to pittsburgh
+    - show me airlines with flights from pittsburgh to boston please
+    - what airlines fly from philadelphia to san francisco
+    - can you tell me what airline flies between denver and san francisco
+    - show me the airlines that fly from toronto to san francisco
+    - which airlines go from san francisco to washington by way of indianapolis
+    - show me the airlines for flights to or from love field
+    - which airline has more business class flights than any other airline
+    - which airlines have connections between pittsburgh and baltimore
+    - list all the airlines that fly into general mitchell international
+    - what airlines have business class service between boston and san francisco
+    - please show me airlines with flights from denver to philadelphia
+    - which airlines fly from bwi to dallas fort worth
+    - what airline is dl 98
+    - which airlines fly from boston to san francisco
+    - what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma
+    - show me the airlines that fly from denver to san francisco
+    - what airlines fly from toronto to san diego with a stopover in denver
+    - what airlines fly from burbank to denver
+    - do the airlines still offer first class
+    - what airlines fly from dallas to baltimore
+    - what airlines fly between boston and atlanta
+    - does any airline have an early afternoon flight from boston to denver
+    - which airlines have flights from denver to pittsburgh
+    - list all the airlines flying between washington and denver
+    - show me the airlines between boston and denver
+    - which airlines fly from boston to washington dc via other cities
+    - can i take a single airline from la to charlotte to newark back to la
+    - which airlines serve pittsburgh
+    - show me the airlines that fly from toronto to boston
+    - list all the airlines that service denver
+    - which airlines provide direct flights between washington and denver
+    - show me the airlines that fly from san francisco to boston
+    - which airlines have nonstop flights from kansas city to chicago
+    - what airlines fly from boston to san francisco
+    - does any airline have a jet flight between pittsburgh and baltimore
+    - is there an airline that has a flight from philadelphia to san francisco with a stop in dallas
+    - is us air
+    - what airline is ac
+    - does any airline have an afternoon flight from atlanta to boston
+    - show me the airlines
+    - what airline is ea the abbreviation for
+    - what airline stands for hp
+    - is there an airline that advertises having more flights than any other airline
+    - what airlines fly from boston to atlanta
+    - show me airlines between boston and san francisco
+    - which companies fly between boston and oakland
+    - list airlines serving between denver and san francisco
+    - show me the names of airlines in atlanta
+    - list the airlines that have nonstop afternoon flights from boston to oakland
+    - which airlines fly from boston to washington dc
+    - is there an airline that services boston dc and dallas
+    - airline that stands for dl
+    - what airlines have flights from baltimore to seattle
+    - what airlines go to pittsburgh
+    - which airlines fly into and out of denver
+
+- intent: atis_airport
+  examples: |
+    - what's the airport at orlando
+    - give me a list of airports in baltimore
+    - houston airports
+    - please list information regarding san francisco airport
+    - what's the name of the denver airport
+    - describe pittsburgh airport
+    - airports
+    - what is the name of the airport in philadelphia
+    - airports in new york
+    - does the philadelphia airport have a name
+    - what is the name of the airport at denver
+    - what airport is at tampa
+    - please show me all airports in denver
+    - airports in new york
+    - show me airports near washington dc
+    - where do the flights from boston to oakland stop
+    - names of airports
+    - what airport in new york is closest to downtown
+    - houston airports
+    - show me airports in washington dc
+
+- intent: atis_capacity
+  examples: |
+    - how many seats in a 100
+    - how many passengers fit on a d9s
+    - how many seats in a 72s
+    - what is the total seating capacity of all aircraft of american airlines
+    - what's the capacity of an f28
+    - what are the seating capacities of planes between pittsburgh and baltimore
+    - list number of people that can be carried on each type of plane that flies between pittsburgh and baltimore
+    - how many people fit on a 73s
+    - how many people fit on a 72s airplane
+    - what is the seating capacity of a boeing 767
+    - what's the capacity of a 733
+    - what is the seating capacity for the f28
+    - how many people fly on a turboprop
+    - how many seats in a 734
+    - what is the seating capacity of the various airplanes that united airlines uses
+    - how many passengers can a boeing 737 hold
+
+- intent: atis_cheapest
+  examples: |
+    - show me the cheapest fare in the database
+
+- intent: atis_city
+  examples: |
+    - what city is the airport mco in
+    - where is mco
+    - where is general mitchell international located
+    - where is general mitchell international located
+    - show me the cities served by nationair
+    - where is lester pearson airport
+    - show me all the cities that midwest express serves
+    - show me the cities served by canadian airlines international
+    - is bwi washington
+    - what time zone is denver in
+    - show me city served both by nationair and canadian airlines international
+    - what cities are served by canadian airlines international
+    - which cities does united airlines service
+    - what cities does continental service
+    - what are the cities that american airlines serves
+    - what are the cities served by delta airlines
+    - are there any other cities that i can fly from boston to dallas through that i can get a flight earlier than 1017 in the morning
+    - which cities are serviced by both american and delta airlines
+    - what city is mco
+
+- intent: atis_distance
+  examples: |
+    - how far is it from orlando airport to orlando
+    - what is the distance from los angeles international airport to los angeles
+    - tell me distance from orlando airport to the city
+    - how far is downtown from the airport in dallas
+    - how long does it take to get from atlanta airport into the city of atlanta
+    - how long does it take to get from kansas city to st. paul
+    - what is the distance between pittsburgh airport and downtown pittsburgh
+    - how long does it take to fly from boston to atlanta
+    - how far is the airport from san francisco
+    - what is the distance from la guardia to new york's downtown
+    - how far from the airport in the dallas fort worth airport is dallas
+    - how far is the airport from downtown pittsburgh
+    - how far is it from salt lake city airport to salt lake city
+    - how long does it take to get from denver to oakland
+    - what is the distance from san francisco international airport to san francisco
+    - how long is a trip from philadelphia airport to downtown philadelphia
+    - what is the distance from toronto international airport to toronto
+    - what is the distance from boston airport to boston
+    - how far is oakland airport from downtown
+    - how long is the flight from atlanta to san francisco at noon on november seventh
+
+- intent: atis_flight_no
+  examples: |
+    - flight numbers from columbus to minneapolis tomorrow
+    - i'm trying to find the flight number from a flight from orlando to cleveland on us air and it arrives around 10 pm
+    - flight numbers from minneapolis to long beach on june twenty six
+    - please show me the return flight number from toronto to st. petersburg
+    - what is the flight number for the continental flight which leaves denver at 1220 pm and goes to san francisco
+    - what is the number of first class flights on american airlines
+    - may i have a listing of flight numbers from columbus ohio to minneapolis minnesota on monday
+    - list the number of flights arriving in dallas fort worth from boston before noon
+    - i would like the flight number and the time for the cheapest fare that is the least expensive first class fare from san francisco to pittsburgh leaving after 8 pm monday night
+    - which is the flight number for the us air flight from philadelphia to boston is it 279 or is it 137338
+    - what is the flight number of the earliest flight between boston and washington dc
+    - what are the flight numbers of the flights which go from san francisco to washington via indianapolis
+
+- intent: atis_flight_time
+  examples: |
+    - what is the arrival time in san francisco for the 755 am flight leaving washington
+    - what are the times that you have planes leaving from san francisco going to pittsburgh on july seventh
+    - on united airlines give me the flight times from boston to dallas
+    - what are the schedule of flights from boston to san francisco for august first
+    - what is the flight schedule of the f28 from pittsburgh to baltimore
+    - show me times for flights from san francisco to atlanta
+    - i would like the time of all flights from san francisco to pittsburgh on sunday
+    - could you give me the schedule of flights for american and delta to dfw on august fifteenth
+    - please list the flight times from pittsburgh to newark
+    - please list the flight times from boston to pittsburgh
+    - please list the flight schedule from baltimore to san francisco on friday nights
+    - what times on wednesday could i take a plane from denver to oakland
+    - please tell me the times of the flights between boston and baltimore
+    - show me times for coach flights between boston and baltimore on wednesday
+    - show me the schedule for airlines leaving pittsburgh going to san francisco for next monday
+    - what is the departure time of the latest flight of united airlines from denver to boston
+    - please list the flight times from pittsburgh to newark
+    - what times does continental depart from boston to san francisco
+    - what time does flight aa 459 depart
+    - please list the flight times from newark to boston
+    - what is the minimum connection time for houston intercontinental
+    - now i'd like a schedule for the flights on tuesday morning from oakland no from dallas fort worth to atlanta
+    - what is the earliest departure time from boston to denver
+    - please list the flight times for boston to pittsburgh
+    - show me the flight schedule from pittsburgh to san francisco
+    - what time does the tuesday morning 755 flight leaving washington arrive in san francisco
+    - i would like a schedule of flights from san francisco to boston on wednesday
+    - what time are the flights leaving from denver to pittsburgh on july seventh
+    - i would like a schedule of flights from denver to san francisco on tuesday
+    - when does continental fly from philadelphia to denver on sundays
+    - what time are the flights from baltimore to san francisco
+    - please give me the flight times the morning on united airlines for september twentieth from philadelphia to san francisco
+    - what's the schedule of flights from atlanta to boston on august first
+    - what is the total schedule for delta's flights to all airports
+    - i would like the time your earliest flight from washington to philadelphia
+    - what is the schedule of flights from boston to denver next monday
+    - what time does the flight leave denver going to san francisco on continental airlines
+    - what is the schedule for flights between pittsburgh and boston on the evening of july ninth
+    - what is delta's schedule of morning flights to atlanta
+    - what is american's schedule of morning flights to atlanta
+    - what is the schedule of ground transportation from washington airport into downtown
+    - what time does twa depart from boston to go to san francisco
+    - what time does the earliest flight which goes from atlanta to denver leave
+    - i would like the evening schedule of flights from san francisco to washington
+    - please give me the flight times i would like to fly from boston to baltimore in the morning before 8
+    - what times does the late afternoon flight leave from washington for denver
+    - what time are flights from denver to san francisco on continental airlines
+    - list departure times from denver to philadelphia which are later than 10 o'clock and earlier than 2 pm
+    - i would like the time of your earliest flight in the morning from philadelphia to washington on american airlines
+    - please list the flight times from newark to boston
+    - i want to know the time of the latest flight i can take from washington to san francisco where i can get a dinner meal
+    - what time is the last flight from washington to san francisco
+    - all right give me the flight times in the morning on september twentieth from pittsburgh to san francisco
+    - can you tell me the time a flight would leave from atlanta to boston in the afternoon
+
+- intent: atis_ground_fare
+  examples: |
+    - how much does the limousine service cost within pittsburgh
+    - how much does it cost to rent a car in tacoma
+    - what are the costs of car rental in dallas
+    - how much does it cost to get downtown from the atlanta airport by limousine
+    - what are the rental car rates in san francisco
+    - what is the cost of the air taxi operation at philadelphia international airport
+    - how much is a limousine between dallas fort worth international airport and dallas
+    - what price is a limousine service in boston
+    - how much would car rental cost in atlanta
+    - can you list costs of denver rental cars
+    - how much is the ground transportation between atlanta and downtown
+    - what are the rental car rates in dallas
+    - what price is a limousine service to new york's la guardia
+    - how expensive is the san francisco limousine service
+    - what is the cost of limousine service in philadelphia
+    - what is the cost of limousine service at logan airport
+    - what are the rental car rates in dallas
+    - please list the prices for a rental car in pittsburgh
+
+- intent: atis_ground_service
+  examples: |
+    - what kind of ground transportation is available in denver
+    - show me the ground transportation in denver
+    - atlanta ground transportation
+    - show me information on ground transportation for dallas
+    - what is the ground transportation from philadelphia airport to the city proper
+    - ground transportation in san jose
+    - show me a list of ground transportation at denver
+    - what is the transportation time from the airport to boston
+    - what kinds of ground transportation is available in dallas fort worth
+    - is there ground transportation available in denver
+    - what kind of ground transportation can you offer me in seattle
+    - show me the car rentals in baltimore
+    - how much time does it take to go between the airport and downtown by ground transportation in dallas
+    - ground transportation minneapolis
+    - is there ground transportation in boston from the airport
+    - what kind of ground transportation is there in washington dc
+    - what is the schedule of ground transportation from the airport in philadelphia into downtown
+    - ground transportation in westchester county
+    - ground transportation denver
+    - what is the available ground transportation between the airport in denver and downtown
+    - what type of ground transportation is available between the airport and downtown san francisco
+    - show me ground transportation in dallas please
+    - please list ground transport in san francisco
+    - is there ground transportation from san diego airport to the downtown area
+    - show me ground transportation in san francisco
+    - i need ground transportation in dallas please show me what's available
+    - is there ground transportation in oakland
+    - what's the ground transportation like at pittsburgh
+    - show me ground transportation information for pittsburgh
+    - please show me ground transportation in denver
+    - i would like information on ground transportation in the city of atlanta from airport to downtown
+    - tell me about ground transportation in st. petersburg airport
+    - show me ground transportation in baltimore
+    - is there ground transportation from the airport to downtown phoenix
+    - does the phoenix airport have ground transportation to and from downtown
+    - ground transportation oakland
+    - is there ground transportation from the milwaukee airport to the downtown area
+    - show me ground transportation information for san francisco
+    - show ground transportation for pittsburgh
+    - is there limousine service available at baltimore airport
+    - what are the ground transportation services in philadelphia
+    - is there ground transportation from atlanta airport to downtown atlanta
+    - are there any limousines or taxi services available at the boston airport
+    - can i see ground transportation from long beach airport to downtown
+    - can you help me with ground transportation information i need to get from the airport in philadelphia to downtown philadelphia
+    - what ground transportation is available in boston
+    - show me ground transportation for boston
+    - show me ground transportation in philadelphia on monday morning
+    - ground transportation denver
+    - what ground transportation is available at denver airport
+    - can you give me information on transportation from the airport in philadelphia to downtown philadelphia
+    - what ground transportation is available at the boston airport
+    - what ground transportation is available in dallas tomorrow
+    - i'm looking for ground transportation in dallas
+    - what limousine service is in boston
+    - please give grounds transportation at dallas airport
+    - show me dallas ground transport
+    - what ground transportation is available in denver
+    - what ground transportation is available in atlanta
+    - ground transportation between airport and downtown in boston
+    - ground transport in denver
+    - what ground transportation is available in baltimore for the day after tomorrow
+    - ground transportation in phoenix
+    - what do you know about car rental in denver
+    - i'd like a limo in denver on august seventh
+    - ground transportation in baltimore
+    - tell me about ground transportation at salt lake city
+    - what limousine service in toronto
+    - how long does the ground transportation take from the salt lake city airport
+    - can you rent a car at stapleton international airport in denver
+    - show me the ground transportation to westchester county
+    - list ground transportation in detroit
+    - show me the ground transportation in denver
+    - what ground transportation is available in pittsburgh
+    - what ground transportation is available in newark
+    - what kind of ground transportation is available in las vegas
+    - ground san francisco
+    - ground transportation in denver
+    - show me ground transportation in boston and in baltimore
+    - what ground transportation is available in denver
+    - show me about the ground transportation in boston
+    - in boston is there ground transportation between airport and downtown
+    - i would like information on ground transportation city of boston between airport and downtown
+    - list ground transportation options at phoenix
+    - i need information for ground transportation denver colorado
+    - tell me about ground transportation at toronto
+    - what is the ground transportation available in denver
+    - what is the ground transport in denver
+    - show me ground transportation in washington dc
+    - ground transport phoenix
+    - what type of ground transportation is available in washington
+    - how do i get to philadelphia downtown from the airport
+    - what kind of ground transportation is there in philadelphia
+    - ground transportation in denver
+    - train to newark
+    - i would like to find out the ground travel available in atlanta
+    - show me the ground transportation schedule in san francisco on thursday evening
+    - what ground transport is available in baltimore
+    - could you tell me if there is ground transportation between the boston airport and boston downtown
+    - what limousine service in los angeles
+    - in dallas fort worth i would like information on ground transportation
+    - rental cars in boston
+    - please give me ground transportation information between dallas fort worth airport and downtown dallas
+    - and how can i get to the boston airport from downtown boston
+    - show me a list of ground transportation at boston airport
+    - what types of ground transportation are there to san francisco airport
+    - what ground transport is available in charlotte
+    - i need to get downtown from the denver airport
+    - tell me about the ground transportation in chicago
+    - what kind of ground transportation is there in dallas
+    - ground transportation philadelphia
+    - what ground transportation is there in oakland
+    - can i get a rental car in dallas
+    - what ground transportation is there from the airport in atlanta to downtown
+    - what ground transportation is available at the baltimore airport
+    - boston ground transportation
+    - is there ground transportation between airport and downtown in boston
+    - ground transportation washington
+    - what ground transportation is available from pittsburgh to downtown
+    - is there ground transportation in baltimore
+    - what is the ground transportation in san diego
+    - what ground transportation is available at boston
+    - is there limo service at pittsburgh airport
+    - what types of ground transportation are available in philadelphia
+    - what sort of ground transportation is there in washington dc
+    - what ground transportation is available in dallas
+    - ground transportation in denver
+    - show me ground transportation in westchester county
+    - i'd like to know the ground travel available in fort worth
+    - show me the ground transportation in the salt lake city airport
+    - i would like to know the types of ground transportation from the airport to las vegas
+    - ground transportation from airport in boston to downtown boston
+    - i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am
+    - show me ground transportation for dallas
+    - ground transportation atl to atlanta
+    - what ground transportation is there in dallas
+    - please give ground transportation at denver airport
+    - what is ground transportation between the san francisco airport and the city
+    - show me all ground transportation in washington dc
+    - rental car in baltimore
+    - can i rent a car in san jose too
+    - tell me about ground transportation between orlando international and orlando
+    - what type of ground transportation is available at logan airport
+    - ground transportation for st. paul
+    - please list ground transportation in atlanta
+    - what ground transportation is available in san francisco
+    - i need your help with information on ground transportation from the airport in philadelphia to downtown
+    - what is the available ground transportation between san francisco and downtown
+    - is there an airport limousine at the atlanta airport
+    - what is the ground transportation available in boston
+    - what is the ground transportation available in fort worth
+    - ground transportation baltimore
+    - train to newark
+    - is there ground transportation from the boston airport to downtown boston
+    - show me ground transportation information for dallas fort worth
+    - ground transportation in las vegas
+    - i need information on ground transportation from the airport in atlanta
+    - what is the ground transportation between airport and baltimore
+    - what is the ground transportation from boston airport to boston downtown
+    - ground transportation in dallas and boston
+    - in new york i'll need to rent a car
+    - what ground transportation is available in boston
+    - i will need a car at new york
+    - show me the car rentals in baltimore
+    - in pittsburgh i'd like to rent a car
+    - tell me about ground transportation between orlando international and orlando
+    - is ground transportation available in philadelphia
+    - what ground transportation is available in san francisco
+    - what ground transportation is there in atlanta
+    - information on ground transportation from airport to downtown boston
+    - how do i get downtown from the toronto airport
+    - show me the ground transportation schedule in philadelphia in the morning on wednesday
+    - what type of ground transportation is available at philadelphia airport
+    - what about a car rental in denver
+    - what ground transportation is there in denver
+    - what ground transportation is available in san francisco
+    - and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego
+    - can you tell me about ground transportation between the dallas airport and downtown dallas
+    - is there ground transportation from the atlanta airport to downtown atlanta
+    - information on ground transportation in denver
+    - what ground transportation is available into washington
+    - what ground transportation is there in atlanta
+    - is there ground transportation from the pittsburgh airport to downtown pittsburgh
+    - what is the ground transportation available in the city of philadelphia
+    - tell me about ground transportation at san francisco
+    - show me the ground transportation at denver
+    - what kind of ground transportation is available in atlanta
+    - fine can you give me information on ground transportation in washington dc to downtown
+    - what kind of ground transportation is there in denver
+    - is there any ground transportation to the city in dallas
+    - what ground transportation is available in charlotte
+    - while i'm in pittsburgh what ground transportation is available
+    - in atlanta i would like information on ground transportation
+    - i need information on ground transportation between airport and downtown in the city of boston
+    - ground transportation dallas
+    - what ground transportation is available in san francisco
+    - what ground transportation is available in baltimore
+    - show me boston ground transportation
+    - do you have ground transportation between airport and downtown in boston
+    - ground transportation in oakland
+    - please give me ground transportation information for denver
+    - what kind of ground transportation is available in denver
+    - show me ground transportation in denver during weekdays
+    - what ground transportation is there from denver
+    - what ground transport is available in minneapolis
+    - is there a limousine service available from the pittsburgh airport
+    - ground transport in oakland
+    - what ground transportation is available at the atlanta airport
+    - can you find out about the ground transportation available in atlanta
+    - dallas ground transportation
+    - is there ground transportation from the dallas airport to downtown dallas
+    - what ground transportation can i take into boston
+    - is there transportation from the atlanta airport to downtown atlanta
+    - i'll need a rental car at the atlanta airport can you show me what's available
+    - what kind of ground transportation is there once i get to dallas
+    - can i have a rental car in houston
+    - rental cars in washington dc
+    - show me ground transport in seattle
+    - what ground transportation is available from the pittsburgh airport to the town
+    - describe ground transportation in dallas
+    - what transportation is available from the dallas airport to downtown
+    - please list the rental car information in pittsburgh
+    - what ground transportation is available in denver
+    - what ground transportation is there in atlanta
+    - show ground transportation in denver
+    - i will be staying downtown in atlanta for two hours could you tell me what the ground transportation is available
+    - is there ground transportation from the airport in denver to downtown
+    - show me ground transportation in boston
+    - show me ground transportation in san francisco
+    - is there ground transportation in dallas from the dallas airport to downtown dallas
+    - what ground transportation is available in dallas
+    - could you tell me about ground transportation arrangements from the dallas airport to downtown dallas
+    - ground transportation atlanta
+    - what's the ground transportation from oakland to san francisco
+    - what car rentals are available next sunday from denver airport
+    - is there ground transportation in st. louis
+    - show me ground transportation in denver
+    - i need ground transportation in seattle
+    - what is the ground transportation available in fort worth texas
+    - show me a list of rental car fares at boston airport
+    - ground transportation san francisco
+    - ground transport denver
+    - please list available ground transportation in pittsburgh
+    - ground transportation please in the city of boston between airport and downtown
+    - what types of ground transportation are available in denver
+    - in denver what kind of ground transportation is there from the airport to downtown
+    - what ground transportation is available in denver
+    - what does ground transportation look like in oakland
+    - what ground transportation is available at baltimore
+    - tell me about ground transportation between the dallas fort worth airport and downtown dallas
+    - can i get a taxi from long beach airport to downtown long beach
+    - what ground transportation is available from the pittsburgh airport
+    - what ground transportation is available from the denver airport to downtown denver
+    - show me ground transportation in denver
+    - what is the ground transportation available in the city of fort worth
+
+- intent: atis_meal
+  examples: |
+    - show me all meals on flights from atlanta to washington
+    - is there a meal on delta flight 852 from san francisco to dallas fort worth
+    - what are all the available meals
+    - what are my meal options from boston to denver
+    - do i get a meal on the atlanta to bwi flight eastern 210
+    - what types of meals are available
+
+- intent: atis_quantity
+  examples: |
+    - please tell me how many nonstop flights there are from boston to atlanta
+    - how many flights does delta have with a class of service code f
+    - how many booking classes are there
+    - list the number of flights leaving boston for dallas fort worth before 9 am in the morning
+    - how many us air flights leave from washington
+    - how many flights go from dallas to baltimore on july nineteenth
+    - how many delta flights leave from washington
+    - how many flights does twa have in business class
+    - how many stops on continental 1765 from boston to san francisco
+    - how many flights does each airline have with business class service
+    - how many airlines have flights with service class yn
+    - how many united flights are there from san francisco please
+    - how many airports does oakland have
+    - how many first class flights does united have today
+    - how many daily us air flights are there between philadelphia and pittsburgh
+    - how many first class flights does delta have today
+    - how many flights does each airline have with first class service
+    - how many flights does american airlines have from boston to atlanta
+    - how many united flights are there to san francisco
+    - list the total number of flights to all airports by delta
+    - how many fares are there one way from tacoma to montreal
+    - how many first class flights does united have leaving from all airports today
+    - how many flights does each airline have with booking class k
+    - how many cities are served by delta airlines with first class flights
+    - how many fare codes belong to economy class
+    - how many first class flights does united airlines have departing from boston today
+    - how many different flight classes are there
+    - how many nonstop flights going from dallas to oakland july twenty seventh
+    - how many of delta's night flights are first class
+    - how many american airline flights leave denver june tenth
+    - how many first class flights does united have leaving from all cities today
+    - how many flights arrive at general mitchell international
+    - list the total number of flights between all airports by delta
+    - how many flights has continental into and out of atlanta
+    - how many first class flights are provided by american airlines
+    - how many airlines fly from new york to los angeles by way of milwaukee
+    - how many cities are served by continental with first class flights
+    - how many fares are there one way from tacoma to montreal
+    - how many flights does american airlines have with a class of service code f
+    - how many flights does twa have with business class
+    - how many cities are served by eastern with first class flights
+    - how many cities are served by american airline with first class flights
+    - how many cities are served by lufthansa with first class flights
+    - how many first class flights does delta airlines have
+    - how many flights does continental airlines have with a class of service code f
+    - how many cities are served by twa with first class flights
+    - how many first class flights does united have leaving from all cities today
+    - how many flights does eastern airlines have from boston to atlanta
+    - how many flights come from denver to baltimore on july nineteenth
+    - how many stops are on all flights from boston to san francisco that depart before 12 o'clock noon
+    - how many flights are there between san francisco and philadelphia on august eighteenth
+
+- intent: atis_restriction
+  examples: |
+    - what are the air restrictions on flights from pittsburgh to atlanta for the airfare of 416 dollars
+    - what is restriction ap57
+    - what are the restrictions on the cheapest one way fare between boston and oakland
+    - what's restriction ap68
+    - what is restriction ap57
+    - what is restriction ap80
