@@ -1,5 +1,27 @@
 version: "3.1"
 
+entities:
+  - PERSON
+  - NORP
+  - FAC
+  - ORG
+  - GPE
+  - LOC
+  - PRODUCT
+  - EVENT
+  - WORK_OF_ART
+  - LAW
+  - LANGUAGE
+  - DATE
+  - TIME
+  - PERCENT
+  - MONEY
+  - QUANTITY
+  - ORDINAL
+  - CARDINAL
+  - GEO
+  - MISC
+
 intents:
   - greet
   - goodbye
