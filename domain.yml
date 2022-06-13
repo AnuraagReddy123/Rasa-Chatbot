@@ -21,6 +21,16 @@ entities:
   - CARDINAL
   - GEO
   - MISC
+  - abbrev
+
+slots:
+  airport_location:
+    type: text
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: GPE
+  
 
 intents:
   - greet

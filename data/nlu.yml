@@ -3761,22 +3761,22 @@ nlu:
 
 - intent: atis_abbreviation
   examples: |
-    - what is fare code h
-    - what is booking class c
-    - what does fare code q mean
-    - what is fare code qw
+    - what is fare code [h](abbrev)
+    - what is booking class [c](abbrev)
+    - what does fare code [q](abbrev) mean
+    - what is fare code [qw](abbrev)
     - what does the fare code f mean
     - what is fare code h
     - what does fare code qw mean
     - what does mco stand for
     - what's the difference between fare code q and fare code f
-    - what is mco
-    - what is the yn code
-    - what is ord
+    - what is [mco](abbrev)
+    - what is the [yn](abbrev) code
+    - what is [ord](abbrev)
     - what's fare code yn
-    - what does restriction ap 57 mean
+    - what does restriction [ap 57](abbrev) mean
     - what is bna
-    - explain the restriction ap 80
+    - explain the restriction [ap 80](abbrev)
     - what does the abbreviation dl mean
     - what is the fare code y and what is the fare code h
     - what does ua stand for
